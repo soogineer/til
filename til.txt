@@ -1,0 +1,2 @@
+1. 앞으로 git으로 재미있는 프로젝트 만들어보고싶다
+2. 1주차 주요 개념 키워드 - commit, staging, push, pull
